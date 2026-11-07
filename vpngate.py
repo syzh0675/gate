@@ -58,20 +58,20 @@ PLACEHOLDER_MARKERS = ("你的", "YOUR_", "YOUR-", "example.com", "yourdomain")
 
 # 静态优选域名池（可用 EDGE_HOSTS 整体覆盖）
 DEFAULT_EDGE_HOSTS = [
-    "saas.sin.fan:443",
-    "www.mfyx.cn:443",
-    "cf.nyanya.moe:443",
-    "cf.877774.xyz:443",
-    "cdn.204910.best:443",
-    "cdn.ctn32.us.kg:443",
-    "p.etime.vip:443",
-    "cmcc.vvvv.ee:443",
-    "cfsaas.080112.xyz:443",
-    "cdn.aneko.ink:443",
-    "hk.cf.3666888.xyz:443",
-    "best.hzample.kdns.fr:443",
-    "ctsg.cfyx.aliyun.20237737.xyz:443",
-    "china-unicom.cname.cloudflare.468123.xyz:443",
+    "polestar.com:443",
+    "deepin.org:443",
+    "ubuntu.com.cn:443",
+    "www.nestle.com.cn:443",
+    "ir.yuntongxun.com:443",
+    "70mai.store:443:443",
+    "fossilchina.cn:443",
+    "52pojie.org:443",
+    "jebsen.com:443",
+    "www.transunion.hk:443",
+    "tomleemusic.com.hk:443",
+    "www.hthkh.com:443",
+    "www.caritas.org.hk:443",
+    "www.aeon.com.hk:443",
 ]
 
 DATA_CENTER_ORG_KEYWORDS = [
